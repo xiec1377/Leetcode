@@ -44,12 +44,10 @@ class Solution(object):
         """
         result = []
         for child in range(len(candies)):
-            candies[child] += extraCandies
-            if max(candies) == candies[child]:
+            if candies[child] + extraCandies >= max(candies):
                 result.append(True)
             else:
                 result.append(False)
-            candies[child] -= extraCandies
 
         return result
 
