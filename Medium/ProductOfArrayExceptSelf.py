@@ -36,9 +36,7 @@ class Solution(object):
         for i in range(len(nums)):
             if not i == 0:
                 answer[i] *= nums[i-1] * answer[i-1]
-        print(answer)
         for j in range(len(nums) - 1, -1, -1):
             answer[j] *= rightProduct
             rightProduct *= nums[j]
-        print(answer)
         return answer
