@@ -12,15 +12,12 @@ class Solution(object):
         for i in range(len(nums) - 2):
             l = i + 1
             r = len(nums) - 1
-            # print "in", i, l, r
             while l < r:
                 sum = nums[i] + nums[l] + nums[r]
-                # print "sum:", sum
                 diff = abs(target - sum)
                 smallestDiff = abs(target - smallestSum)
                 if diff < smallestDiff:
                     smallestSum = sum
-                    # smallestDiff = diff
                 if sum > target:
                     r -= 1
                 elif sum < target:
