@@ -18,3 +18,15 @@ My Leetcode solutions
 |  |
 | ------- |
 | [0383-ransom-note](https://github.com/xiec1377/Leetcode/tree/master/0383-ransom-note) |
+# Array
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/xiec1377/Leetcode/tree/master/0016-3sum-closest) |
+# Two Pointers
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/xiec1377/Leetcode/tree/master/0016-3sum-closest) |
+# Sorting
+|  |
+| ------- |
+| [0016-3sum-closest](https://github.com/xiec1377/Leetcode/tree/master/0016-3sum-closest) |
