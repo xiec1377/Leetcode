@@ -20,13 +20,13 @@ class Solution(object):
                 smallestDiff = abs(target - smallestSum)
                 if diff < smallestDiff:
                     smallestSum = sum
-                    smallestDiff = diff
+                    # smallestDiff = diff
                 if sum > target:
                     r -= 1
                 elif sum < target:
                     l += 1
                 else:
-                    break
+                    return sum
         return smallestSum
 
         
