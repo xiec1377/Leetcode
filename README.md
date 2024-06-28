@@ -51,4 +51,16 @@ My Leetcode solutions
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/xiec1377/Leetcode/tree/master/0100-same-tree) |
+## Array
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
