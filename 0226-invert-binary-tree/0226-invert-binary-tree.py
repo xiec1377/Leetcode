@@ -13,9 +13,10 @@ class Solution(object):
         if root is None:
             return root
         else:
-            buffer = root.left
-            root.left = root.right
-            root.right = buffer
+            # buffer = root.left
+            # root.left = root.right
+            # root.right = buffer
+            root.left, root.right = root.right, root.left
             self.invertTree(root.left)
             self.invertTree(root.right)
         return root
