@@ -15,9 +15,9 @@ class Solution(object):
         # base case
         if root is None:
             return False
-        if root.left is None and root.right is None:
-            if targetSum - root.val == 0:
-                return True
+        if root.left is None and root.right is None and targetSum - root.val == 0:
+            return True
+        # recursive case
         else:
             return self.hasPathSum(root.left, targetSum - root.val) or self.hasPathSum(root.right, targetSum - root.val)
 
