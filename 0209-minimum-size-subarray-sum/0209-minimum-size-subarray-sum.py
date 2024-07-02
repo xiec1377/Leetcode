@@ -11,7 +11,6 @@ class Solution(object):
         for i in range(len(nums)):
             sum += nums[i]
             while sum >= target:
-                print("thing:", i, start)
                 minLen = min(minLen, i - start + 1)
                 sum -= nums[start]
                 start += 1
