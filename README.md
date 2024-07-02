@@ -64,6 +64,7 @@ My Leetcode solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
 | [0056-merge-intervals](https://github.com/xiec1377/Leetcode/tree/master/0056-merge-intervals) |
+| [0209-minimum-size-subarray-sum](https://github.com/xiec1377/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/xiec1377/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/xiec1377/Leetcode/tree/master/0228-summary-ranges) |
 ## Two Pointers
@@ -85,5 +86,14 @@ My Leetcode solutions
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/xiec1377/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/xiec1377/Leetcode/tree/master/0219-contains-duplicate-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/xiec1377/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/xiec1377/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
