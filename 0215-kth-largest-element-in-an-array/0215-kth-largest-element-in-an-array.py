@@ -10,7 +10,6 @@ class Solution(object):
 
         for i in range(len(nums)-k):
             heapq.heappop(heap)
-            # print("new heap:", heap)
 
         return heap[0]
 
