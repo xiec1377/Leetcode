@@ -63,6 +63,7 @@ My Leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
+| [0035-search-insert-position](https://github.com/xiec1377/Leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/xiec1377/Leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xiec1377/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0134-gas-station](https://github.com/xiec1377/Leetcode/tree/master/0134-gas-station) |
@@ -103,6 +104,7 @@ My Leetcode solutions
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/xiec1377/Leetcode/tree/master/0035-search-insert-position) |
 | [0209-minimum-size-subarray-sum](https://github.com/xiec1377/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/xiec1377/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/xiec1377/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
