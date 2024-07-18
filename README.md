@@ -66,6 +66,7 @@ My Leetcode solutions
 | [0035-search-insert-position](https://github.com/xiec1377/Leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/xiec1377/Leetcode/tree/master/0056-merge-intervals) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xiec1377/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/xiec1377/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/xiec1377/Leetcode/tree/master/0134-gas-station) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xiec1377/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/xiec1377/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
@@ -97,6 +98,7 @@ My Leetcode solutions
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/xiec1377/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0128-longest-consecutive-sequence](https://github.com/xiec1377/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0219-contains-duplicate-ii](https://github.com/xiec1377/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
@@ -141,4 +143,8 @@ My Leetcode solutions
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xiec1377/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/xiec1377/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
