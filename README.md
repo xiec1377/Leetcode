@@ -71,6 +71,7 @@ My Leetcode solutions
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xiec1377/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/xiec1377/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xiec1377/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/xiec1377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/xiec1377/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0228-summary-ranges](https://github.com/xiec1377/Leetcode/tree/master/0228-summary-ranges) |
 | [0792-binary-search](https://github.com/xiec1377/Leetcode/tree/master/0792-binary-search) |
@@ -93,12 +94,14 @@ My Leetcode solutions
 | ------- |
 | [0056-merge-intervals](https://github.com/xiec1377/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xiec1377/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0217-contains-duplicate](https://github.com/xiec1377/Leetcode/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/xiec1377/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/xiec1377/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/xiec1377/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0217-contains-duplicate](https://github.com/xiec1377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/xiec1377/Leetcode/tree/master/0219-contains-duplicate-ii) |
 ## Sliding Window
 |  |
