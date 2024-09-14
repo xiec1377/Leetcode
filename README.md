@@ -62,6 +62,7 @@ My Leetcode solutions
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/xiec1377/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/xiec1377/Leetcode/tree/master/0035-search-insert-position) |
 | [0056-merge-intervals](https://github.com/xiec1377/Leetcode/tree/master/0056-merge-intervals) |
@@ -100,6 +101,7 @@ My Leetcode solutions
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/xiec1377/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/xiec1377/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0128-longest-consecutive-sequence](https://github.com/xiec1377/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/xiec1377/Leetcode/tree/master/0217-contains-duplicate) |
