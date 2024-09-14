@@ -95,6 +95,7 @@ My Leetcode solutions
 | [0056-merge-intervals](https://github.com/xiec1377/Leetcode/tree/master/0056-merge-intervals) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xiec1377/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/xiec1377/Leetcode/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/xiec1377/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
@@ -103,6 +104,7 @@ My Leetcode solutions
 | [0128-longest-consecutive-sequence](https://github.com/xiec1377/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/xiec1377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/xiec1377/Leetcode/tree/master/0219-contains-duplicate-ii) |
+| [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
 ## Sliding Window
 |  |
 | ------- |
@@ -129,6 +131,7 @@ My Leetcode solutions
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/xiec1377/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/xiec1377/Leetcode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xiec1377/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 ## Divide and Conquer
 |  |
