@@ -4,13 +4,10 @@ class Solution(object):
         :type strs: List[str]
         :rtype: List[List[str]]
         """
-        anagramDic = {}
+        anagramDic = defaultdict(list)
         for s in strs:
             count = [0] * 26
             for char in s:
                 count[ord(char) - ord("a")] += 1
-            if tuple(count) in anagramDic.keys():
-                anagramDic[tuple(count)].append(s)
-            else:
-                anagramDic[tuple(count)] = [s]
+            anagramDic[tuple(count)].append(s)
         return anagramDic.values()
