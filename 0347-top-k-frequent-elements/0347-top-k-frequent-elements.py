@@ -15,7 +15,6 @@ class Solution(object):
         res = []
         count = k
         for i in range(len(arr) - 1, -1, -1):
-            print("num:", arr[i])
             for num in arr[i]:
                 if count > 0:
                     res.append(num)
