@@ -11,13 +11,10 @@ class Solution(object):
         arr = [[] for i in range(len(nums) + 1)]
         for key, val in frequency.items():
             arr[val].append(key)
-        # return values from reverse order in arr
         res = []
-        count = k
         for i in range(len(arr) - 1, -1, -1):
             for num in arr[i]:
-                if count > 0:
+                if len(res) < k:
                     res.append(num)
-                    count -= 1
         return res
         
