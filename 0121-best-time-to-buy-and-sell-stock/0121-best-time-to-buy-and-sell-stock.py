@@ -4,13 +4,14 @@ class Solution(object):
         :type prices: List[int]
         :rtype: int
         """
-        buy = prices[0]
-        profit = 0
-        for i in range(1, len(prices)):
-            if prices[i] < buy:
-                buy = prices[i]
-            elif prices[i] - buy > profit:
-                profit = prices[i] - buy
-        return profit
-
+        buy = 0
+        sell = 1
+        maxProfit = 0
+        while sell < len(prices):
+            if prices[buy] >= prices[sell]:
+                buy = sell
+            else:
+                maxProfit = max(maxProfit, prices[sell] - prices[buy])
+            sell += 1
+        return maxProfit
         
