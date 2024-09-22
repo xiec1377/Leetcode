@@ -4,8 +4,7 @@ class Solution(object):
         :type emails: List[str]
         :rtype: int
         """
-        locals = set()
-
+        res = set()
         for email in emails:
             local = email.split("@")[0]
             domain = email.split("@")[1]
@@ -18,10 +17,7 @@ class Solution(object):
                     break
                 else:
                     newLocal += char
-        
-                    
             newLocal += "@" + domain
-            if not newLocal in locals:
-                locals.add(newLocal)
-
-        return len(locals)
+            if not newLocal in res:
+                res.add(newLocal)
+        return len(res)
