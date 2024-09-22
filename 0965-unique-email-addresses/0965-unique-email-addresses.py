@@ -8,7 +8,6 @@ class Solution(object):
         for email in emails:
             local = email.split("@")[0]
             domain = email.split("@")[1]
-            print("local:", local)
             newLocal = ""
             for char in local:
                 if char == '.':
