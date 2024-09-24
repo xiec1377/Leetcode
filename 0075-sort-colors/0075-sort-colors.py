@@ -21,18 +21,3 @@ class Solution(object):
                 slow = fast
             else:
                 slow += 1
-
-
-        # arr = [0] * 3
-        # res = []
-        # for num in nums:
-        #     arr[num] += 1
-        # print("arr:", arr)
-
-        # nums = []
-        # for i in range(len(arr)):
-        #     for j in range(arr[i]):
-        #         nums.append(i)
-        # print("nums:", nums)
-        # return nums
-        
