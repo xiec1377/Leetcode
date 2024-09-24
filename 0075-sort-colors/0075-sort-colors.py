@@ -8,7 +8,6 @@ class Solution(object):
         fast = 0 
         while slow < len(nums) and fast < len(nums) - 1:
             fast = slow + 1
-            print("slow:", slow, "fast:", fast)
             if nums[slow] > nums[fast]:
                 tmp = nums[slow]
                 nums[slow] = nums[fast]
