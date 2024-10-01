@@ -65,6 +65,7 @@ My Leetcode solutions
 | [0001-two-sum](https://github.com/xiec1377/Leetcode/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
 | [0035-search-insert-position](https://github.com/xiec1377/Leetcode/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/xiec1377/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/xiec1377/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/xiec1377/Leetcode/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/xiec1377/Leetcode/tree/master/0075-sort-colors) |
@@ -87,6 +88,7 @@ My Leetcode solutions
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
+| [0042-trapping-rain-water](https://github.com/xiec1377/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/xiec1377/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/xiec1377/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xiec1377/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -169,6 +171,7 @@ My Leetcode solutions
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/xiec1377/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xiec1377/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Union Find
 |  |
@@ -186,4 +189,9 @@ My Leetcode solutions
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/xiec1377/Leetcode/tree/master/0020-valid-parentheses) |
+| [0042-trapping-rain-water](https://github.com/xiec1377/Leetcode/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/xiec1377/Leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
