@@ -97,11 +97,13 @@ My Leetcode solutions
 | [0125-valid-palindrome](https://github.com/xiec1377/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xiec1377/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [1019-squares-of-a-sorted-array](https://github.com/xiec1377/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/xiec1377/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/xiec1377/Leetcode/tree/master/0134-gas-station) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/xiec1377/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Sorting
 |  |
 | ------- |
@@ -159,6 +161,7 @@ My Leetcode solutions
 | [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
 | [0965-unique-email-addresses](https://github.com/xiec1377/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xiec1377/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/xiec1377/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/xiec1377/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
 |  |
@@ -199,6 +202,7 @@ My Leetcode solutions
 | [0042-trapping-rain-water](https://github.com/xiec1377/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/xiec1377/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/xiec1377/Leetcode/tree/master/0883-car-fleet) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/xiec1377/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/xiec1377/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Monotonic Stack
 |  |
