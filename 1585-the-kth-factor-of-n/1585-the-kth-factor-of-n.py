@@ -11,7 +11,6 @@ class Solution(object):
             if n % i == 0:
                 factors.append(i)
         
-        print("factors:", factors)
         if 1 <= k <= len(factors):
             return factors[k-1]
         else:
