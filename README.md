@@ -221,4 +221,12 @@ My Leetcode solutions
 |  |
 | ------- |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/xiec1377/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+## Math
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/xiec1377/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+## Number Theory
+|  |
+| ------- |
+| [1585-the-kth-factor-of-n](https://github.com/xiec1377/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
