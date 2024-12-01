@@ -4,8 +4,6 @@ class Solution(object):
         :type s: str
         :rtype: int
         """
-        if len(s) == 1:
-            return 1
         dic = {}
         res = 0
         for i in range(0, len(s)):
