@@ -6,17 +6,13 @@ class Solution(object):
         """
         if len(s) == 1:
             return 1
-        seen = set()
-        l = 0
+        dic = {}
         res = 0
-        seen.add(s[l])
-        for i in range(1, len(s)):
-            if s[i] in seen:
-                l = i
-                set.clear(seen)
+        for i in range(0, len(s)):
+            if s[i] in dic.keys():
                 res += 1
-            seen.add(s[i])
-        
+                dic.clear()
+            dic[s[i]] = True
         res += 1
         return res
 
