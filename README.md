@@ -107,6 +107,7 @@ My Leetcode solutions
 | [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/xiec1377/Leetcode/tree/master/0134-gas-station) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/xiec1377/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2487-optimal-partition-of-string](https://github.com/xiec1377/Leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Sorting
 |  |
 | ------- |
@@ -134,6 +135,7 @@ My Leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/xiec1377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0965-unique-email-addresses](https://github.com/xiec1377/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/xiec1377/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2487-optimal-partition-of-string](https://github.com/xiec1377/Leetcode/tree/master/2487-optimal-partition-of-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -169,6 +171,7 @@ My Leetcode solutions
 | [0965-unique-email-addresses](https://github.com/xiec1377/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xiec1377/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/xiec1377/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2487-optimal-partition-of-string](https://github.com/xiec1377/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/xiec1377/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
 |  |
