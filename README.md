@@ -195,6 +195,7 @@ My Leetcode solutions
 | ------- |
 | [0042-trapping-rain-water](https://github.com/xiec1377/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xiec1377/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [2562-count-ways-to-build-good-strings](https://github.com/xiec1377/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 ## Union Find
 |  |
 | ------- |
