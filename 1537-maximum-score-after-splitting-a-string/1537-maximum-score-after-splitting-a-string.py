@@ -12,13 +12,10 @@ class Solution(object):
                 all_ones += 1
         for i in range(len(s) - 1):
             if s[i] == '0':
-                print("0")
                 zero += 1
             else:
-                print("1")
                 all_ones -= 1
             max_score = max(max_score, zero + all_ones)
-            print("max_score:", max_score)
         return max_score
 
         
