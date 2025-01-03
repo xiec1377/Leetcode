@@ -90,6 +90,7 @@ My Leetcode solutions
 | [1046-max-consecutive-ones-iii](https://github.com/xiec1377/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/xiec1377/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/xiec1377/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2358-number-of-ways-to-split-array](https://github.com/xiec1377/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
 | ------- |
@@ -162,6 +163,7 @@ My Leetcode solutions
 | [0209-minimum-size-subarray-sum](https://github.com/xiec1377/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/xiec1377/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [1046-max-consecutive-ones-iii](https://github.com/xiec1377/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
+| [2358-number-of-ways-to-split-array](https://github.com/xiec1377/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## String
 |  |
 | ------- |
