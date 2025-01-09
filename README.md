@@ -90,6 +90,7 @@ My Leetcode solutions
 | [1046-max-consecutive-ones-iii](https://github.com/xiec1377/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/xiec1377/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/xiec1377/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/xiec1377/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/xiec1377/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 ## Two Pointers
 |  |
@@ -177,6 +178,7 @@ My Leetcode solutions
 | [1537-maximum-score-after-splitting-a-string](https://github.com/xiec1377/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xiec1377/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/xiec1377/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2292-counting-words-with-a-given-prefix](https://github.com/xiec1377/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2487-optimal-partition-of-string](https://github.com/xiec1377/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/xiec1377/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Divide and Conquer
@@ -243,4 +245,8 @@ My Leetcode solutions
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/xiec1377/Leetcode/tree/master/0074-search-a-2d-matrix) |
+## String Matching
+|  |
+| ------- |
+| [2292-counting-words-with-a-given-prefix](https://github.com/xiec1377/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 <!---LeetCode Topics End-->
