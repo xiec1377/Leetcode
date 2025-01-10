@@ -18,7 +18,6 @@ class Solution(object):
             for c, n in freq.items():
                 if count[c] < n:
                     isUniversal = False
-                    break
             if isUniversal:
                 ans.append(worda)
         return ans
