@@ -85,6 +85,7 @@ My Leetcode solutions
 | [0739-daily-temperatures](https://github.com/xiec1377/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/xiec1377/Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/xiec1377/Leetcode/tree/master/0883-car-fleet) |
+| [0952-word-subsets](https://github.com/xiec1377/Leetcode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/xiec1377/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/xiec1377/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/xiec1377/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -136,6 +137,7 @@ My Leetcode solutions
 | [0219-contains-duplicate-ii](https://github.com/xiec1377/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/xiec1377/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0952-word-subsets](https://github.com/xiec1377/Leetcode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/xiec1377/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/xiec1377/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2487-optimal-partition-of-string](https://github.com/xiec1377/Leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -174,6 +176,7 @@ My Leetcode solutions
 | [0049-group-anagrams](https://github.com/xiec1377/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/xiec1377/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
+| [0952-word-subsets](https://github.com/xiec1377/Leetcode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/xiec1377/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/xiec1377/Leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xiec1377/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
