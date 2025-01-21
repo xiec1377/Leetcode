@@ -94,6 +94,7 @@ My Leetcode solutions
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/xiec1377/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/xiec1377/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/xiec1377/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
+| [2685-first-completely-painted-row-or-column](https://github.com/xiec1377/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/xiec1377/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 ## Two Pointers
 |  |
@@ -143,6 +144,7 @@ My Leetcode solutions
 | [0965-unique-email-addresses](https://github.com/xiec1377/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/xiec1377/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2487-optimal-partition-of-string](https://github.com/xiec1377/Leetcode/tree/master/2487-optimal-partition-of-string) |
+| [2685-first-completely-painted-row-or-column](https://github.com/xiec1377/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## Sliding Window
 |  |
 | ------- |
@@ -255,6 +257,7 @@ My Leetcode solutions
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/xiec1377/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2145-grid-game](https://github.com/xiec1377/Leetcode/tree/master/2145-grid-game) |
+| [2685-first-completely-painted-row-or-column](https://github.com/xiec1377/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 ## String Matching
 |  |
 | ------- |
