@@ -12,4 +12,7 @@ class Solution(object):
             result = min(result, max(sum_top, sum_bot))
             sum_bot += grid[1][i]
         return result
+
+        # Time complexity: O(2*n) = O(n)
+        # Space complexity: O(1)
     
