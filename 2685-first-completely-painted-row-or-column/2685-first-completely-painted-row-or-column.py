@@ -21,7 +21,7 @@ class Solution(object):
             painted_cols[j] += 1
             if painted_rows[i] == cols or painted_cols[j] == rows:
                 return idx
-        return -1
+        return len(arr) - 1
 
 
         
