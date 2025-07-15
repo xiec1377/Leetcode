@@ -198,6 +198,7 @@ My Leetcode solutions
 | [2487-optimal-partition-of-string](https://github.com/xiec1377/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/xiec1377/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/xiec1377/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3396-valid-word](https://github.com/xiec1377/Leetcode/tree/master/3396-valid-word) |
 ## Divide and Conquer
 |  |
 | ------- |
