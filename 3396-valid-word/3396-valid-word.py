@@ -5,16 +5,11 @@ class Solution:
         isVowel = False
         isConsonant = False
         for char in word.lower():
-            if (char >= '0' and char <= '9') or (char >= 'a' and  char <= 'z'):
-                print("valid char")
-            else:
-                print("invalid char")
+            if not ((char >= '0' and char <= '9') or (char >= 'a' and  char <= 'z')):
                 return False
             if char == 'a' or char == 'e' or char == 'i' or char == 'o' or char == 'u':
-                print("vowel")
                 isVowel = True
             elif not (char >= '0' and char <= '9'):
-                print("consonant")
                 isConsonant = True
         return isVowel and isConsonant
 
