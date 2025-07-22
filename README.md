@@ -98,6 +98,7 @@ My Leetcode solutions
 | [2358-number-of-ways-to-split-array](https://github.com/xiec1377/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/xiec1377/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/xiec1377/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/xiec1377/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -221,6 +222,7 @@ My Leetcode solutions
 | [0042-trapping-rain-water](https://github.com/xiec1377/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xiec1377/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2562-count-ways-to-build-good-strings](https://github.com/xiec1377/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
+| [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/xiec1377/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Union Find
 |  |
 | ------- |
