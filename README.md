@@ -99,6 +99,7 @@ My Leetcode solutions
 | [2685-first-completely-painted-row-or-column](https://github.com/xiec1377/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/xiec1377/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/xiec1377/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/xiec1377/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,6 +120,7 @@ My Leetcode solutions
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xiec1377/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/xiec1377/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/xiec1377/Leetcode/tree/master/2487-optimal-partition-of-string) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/xiec1377/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sorting
 |  |
 | ------- |
@@ -151,6 +153,7 @@ My Leetcode solutions
 | [2107-find-unique-binary-string](https://github.com/xiec1377/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2487-optimal-partition-of-string](https://github.com/xiec1377/Leetcode/tree/master/2487-optimal-partition-of-string) |
 | [2685-first-completely-painted-row-or-column](https://github.com/xiec1377/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
+| [3788-maximum-unique-subarray-sum-after-deletion](https://github.com/xiec1377/Leetcode/tree/master/3788-maximum-unique-subarray-sum-after-deletion) |
 ## Sliding Window
 |  |
 | ------- |
