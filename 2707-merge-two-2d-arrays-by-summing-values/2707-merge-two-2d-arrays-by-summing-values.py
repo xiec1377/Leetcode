@@ -3,8 +3,6 @@ class Solution:
         myDict = {}
         res = []
         for key, val in nums1:
-            print("key:", key)
-            print("val:", val)
             if key in myDict:
                 myDict[key] += val
             else:
