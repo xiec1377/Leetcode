@@ -95,6 +95,7 @@ My Leetcode solutions
 | [2107-find-unique-binary-string](https://github.com/xiec1377/Leetcode/tree/master/2107-find-unique-binary-string) |
 | [2145-grid-game](https://github.com/xiec1377/Leetcode/tree/master/2145-grid-game) |
 | [2188-minimized-maximum-of-products-distributed-to-any-store](https://github.com/xiec1377/Leetcode/tree/master/2188-minimized-maximum-of-products-distributed-to-any-store) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/xiec1377/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2292-counting-words-with-a-given-prefix](https://github.com/xiec1377/Leetcode/tree/master/2292-counting-words-with-a-given-prefix) |
 | [2358-number-of-ways-to-split-array](https://github.com/xiec1377/Leetcode/tree/master/2358-number-of-ways-to-split-array) |
 | [2685-first-completely-painted-row-or-column](https://github.com/xiec1377/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
@@ -114,6 +115,7 @@ My Leetcode solutions
 | [1019-squares-of-a-sorted-array](https://github.com/xiec1377/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/xiec1377/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/xiec1377/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2265-partition-array-according-to-given-pivot](https://github.com/xiec1377/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/xiec1377/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 ## Greedy
 |  |
@@ -263,6 +265,7 @@ My Leetcode solutions
 ## Simulation
 |  |
 | ------- |
+| [2265-partition-array-according-to-given-pivot](https://github.com/xiec1377/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/xiec1377/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
