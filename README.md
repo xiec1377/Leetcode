@@ -272,6 +272,7 @@ My Leetcode solutions
 | ------- |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xiec1377/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/xiec1377/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/xiec1377/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 ## Number Theory
 |  |
 | ------- |
