@@ -267,6 +267,7 @@ My Leetcode solutions
 ## Math
 |  |
 | ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xiec1377/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1585-the-kth-factor-of-n](https://github.com/xiec1377/Leetcode/tree/master/1585-the-kth-factor-of-n) |
 ## Number Theory
 |  |
@@ -290,4 +291,8 @@ My Leetcode solutions
 |  |
 | ------- |
 | [2107-find-unique-binary-string](https://github.com/xiec1377/Leetcode/tree/master/2107-find-unique-binary-string) |
+## Linked List
+|  |
+| ------- |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xiec1377/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 <!---LeetCode Topics End-->
