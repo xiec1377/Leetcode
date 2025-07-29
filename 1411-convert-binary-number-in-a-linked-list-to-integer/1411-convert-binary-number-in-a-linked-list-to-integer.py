@@ -13,6 +13,6 @@ class Solution:
             curr = curr.next
         for i in range(len(binaryStr)):
             if binaryStr[i] == '1':
-                res += (2 ** (len(binaryStr) - 1 - i))
+                res += 2 ** (len(binaryStr) - 1 - i)
         return res
         
