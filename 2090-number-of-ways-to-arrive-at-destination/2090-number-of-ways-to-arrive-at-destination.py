@@ -22,9 +22,9 @@ class Solution:
                 roadsDict[dest].append([source, time])
             else:
                 roadsDict[dest] = [[source, time]]
-        for source in roadsDict.keys():
-            for dest, time in roadsDict[source]:
-                print(source, ", ", dest, ", ", time)
+        # for source in roadsDict.keys():
+        #     for dest, time in roadsDict[source]:
+        #         print(source, ", ", dest, ", ", time)
 
         while pq:
             totalTime, node  = heapq.heappop(pq)
