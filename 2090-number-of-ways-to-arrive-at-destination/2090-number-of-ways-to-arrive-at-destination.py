@@ -28,15 +28,9 @@ class Solution:
 
         while pq:
             totalTime, node  = heapq.heappop(pq)
-            print("node:", node)
-            print("totalTime:", totalTime)
             if totalTime > minTime[node]:
                 continue
-            if node == n - 1:
-                print("we done")
-                times.append(totalTime)
             if not node in visited:
-                print("node not visited")
                 visited.append(node)
                 for dest, time in roadsDict[node]:
                     print(dest, time)
