@@ -5,7 +5,6 @@ class Solution:
         res = [0] * 2
         for i in range(row):
             for j in range(row):
-                print(grid[i][j])
                 arr[grid[i][j] - 1] += 1
                 if arr[grid[i][j] - 1] >= 2:
                     res[0] = grid[i][j]
