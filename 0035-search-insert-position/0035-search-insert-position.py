@@ -1,20 +1,28 @@
-class Solution(object):
-    def searchInsert(self, nums, target):
-        """
-        :type nums: List[int]
-        :type target: int
-        :rtype: int
-        """
-        # use binary search for O(logn) time complexity
+class Solution:
+    def searchInsert(self, nums: List[int], target: int) -> int:
         l = 0
         r = len(nums) - 1
+        i = 0
         while l <= r:
-            m = l + ((r - l) // 2)
-            if nums[m] > target:
-                r = m - 1
-            elif nums[m] < target:
-                l = m + 1
-            else:
-                return m
+            mid = floor((l + r)/ 2)
+            if nums[mid] == target:
+                return mid
+            elif nums[mid] < target:
+                l = mid + 1
+            elif nums[mid] > target:
+                r = mid - 1
         return l
+
+
+# nums = [1, 3, 5, 6, 9] , target = 10
+
+
+
+
+
+
+            
+            
+
+
         
