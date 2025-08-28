@@ -74,6 +74,7 @@ My Leetcode solutions
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xiec1377/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/xiec1377/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0134-gas-station](https://github.com/xiec1377/Leetcode/tree/master/0134-gas-station) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/xiec1377/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xiec1377/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/xiec1377/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/xiec1377/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -180,6 +181,7 @@ My Leetcode solutions
 | ------- |
 | [0035-search-insert-position](https://github.com/xiec1377/Leetcode/tree/master/0035-search-insert-position) |
 | [0074-search-a-2d-matrix](https://github.com/xiec1377/Leetcode/tree/master/0074-search-a-2d-matrix) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/xiec1377/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xiec1377/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/xiec1377/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
 | [0792-binary-search](https://github.com/xiec1377/Leetcode/tree/master/0792-binary-search) |
