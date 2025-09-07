@@ -125,6 +125,7 @@ My Leetcode solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/xiec1377/Leetcode/tree/master/0134-gas-station) |
+| [0778-reorganize-string](https://github.com/xiec1377/Leetcode/tree/master/0778-reorganize-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xiec1377/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/xiec1377/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2487-optimal-partition-of-string](https://github.com/xiec1377/Leetcode/tree/master/2487-optimal-partition-of-string) |
@@ -141,6 +142,7 @@ My Leetcode solutions
 | [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/xiec1377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/xiec1377/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/xiec1377/Leetcode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/xiec1377/Leetcode/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/xiec1377/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/xiec1377/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -157,6 +159,7 @@ My Leetcode solutions
 | [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/xiec1377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/xiec1377/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/xiec1377/Leetcode/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/xiec1377/Leetcode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/xiec1377/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/xiec1377/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
@@ -208,6 +211,7 @@ My Leetcode solutions
 | [0049-group-anagrams](https://github.com/xiec1377/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/xiec1377/Leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
+| [0778-reorganize-string](https://github.com/xiec1377/Leetcode/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/xiec1377/Leetcode/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/xiec1377/Leetcode/tree/master/0965-unique-email-addresses) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/xiec1377/Leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
@@ -230,6 +234,7 @@ My Leetcode solutions
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/xiec1377/Leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/xiec1377/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0778-reorganize-string](https://github.com/xiec1377/Leetcode/tree/master/0778-reorganize-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xiec1377/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 ## Quickselect
 |  |
@@ -258,6 +263,7 @@ My Leetcode solutions
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/xiec1377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/xiec1377/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0778-reorganize-string](https://github.com/xiec1377/Leetcode/tree/master/0778-reorganize-string) |
 | [1510-find-lucky-integer-in-an-array](https://github.com/xiec1377/Leetcode/tree/master/1510-find-lucky-integer-in-an-array) |
 ## Stack
 |  |
