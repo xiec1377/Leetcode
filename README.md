@@ -295,6 +295,7 @@ My Leetcode solutions
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/xiec1377/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/xiec1377/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/xiec1377/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3830-find-closest-person](https://github.com/xiec1377/Leetcode/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
 | ------- |
