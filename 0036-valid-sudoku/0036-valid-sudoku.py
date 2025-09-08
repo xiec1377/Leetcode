@@ -21,14 +21,10 @@ class Solution:
                 rowsquare = r // 3
                 colsquare = c // 3
                 square_index = rowsquare * 3 + colsquare
-                print("rowsquare:", rowsquare)
-                print("colsquare:", colsquare)
                 if board[r][c] in squares[square_index]:
-                    print("square false")
                     return False
                 else:
                     if board[r][c] >= '1' and board[r][c] <= '9':
                         squares[square_index].append(board[r][c])
-                        print("quares[colsquare + rowsquare]:", squares[square_index])
         
         return True
