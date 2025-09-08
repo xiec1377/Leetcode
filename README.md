@@ -66,6 +66,7 @@ My Leetcode solutions
 | [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/xiec1377/Leetcode/tree/master/0015-3sum) |
 | [0035-search-insert-position](https://github.com/xiec1377/Leetcode/tree/master/0035-search-insert-position) |
+| [0036-valid-sudoku](https://github.com/xiec1377/Leetcode/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/xiec1377/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/xiec1377/Leetcode/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/xiec1377/Leetcode/tree/master/0056-merge-intervals) |
@@ -154,6 +155,7 @@ My Leetcode solutions
 | ------- |
 | [0001-two-sum](https://github.com/xiec1377/Leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/xiec1377/Leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0036-valid-sudoku](https://github.com/xiec1377/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/xiec1377/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/xiec1377/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/xiec1377/Leetcode/tree/master/0217-contains-duplicate) |
@@ -305,6 +307,7 @@ My Leetcode solutions
 ## Matrix
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/xiec1377/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/xiec1377/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [2145-grid-game](https://github.com/xiec1377/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/xiec1377/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
