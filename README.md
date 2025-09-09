@@ -252,6 +252,7 @@ My Leetcode solutions
 | [0042-trapping-rain-water](https://github.com/xiec1377/Leetcode/tree/master/0042-trapping-rain-water) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/xiec1377/Leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/xiec1377/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/xiec1377/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2562-count-ways-to-build-good-strings](https://github.com/xiec1377/Leetcode/tree/master/2562-count-ways-to-build-good-strings) |
 | [3491-find-the-maximum-length-of-valid-subsequence-ii](https://github.com/xiec1377/Leetcode/tree/master/3491-find-the-maximum-length-of-valid-subsequence-ii) |
 ## Union Find
@@ -288,6 +289,7 @@ My Leetcode solutions
 |  |
 | ------- |
 | [2265-partition-array-according-to-given-pivot](https://github.com/xiec1377/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/xiec1377/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/xiec1377/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Math
 |  |
@@ -342,4 +344,8 @@ My Leetcode solutions
 |  |
 | ------- |
 | [2090-number-of-ways-to-arrive-at-destination](https://github.com/xiec1377/Leetcode/tree/master/2090-number-of-ways-to-arrive-at-destination) |
+## Queue
+|  |
+| ------- |
+| [2408-number-of-people-aware-of-a-secret](https://github.com/xiec1377/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 <!---LeetCode Topics End-->
