@@ -4,10 +4,10 @@ class Solution:
         # bottom triangle
         for i in range(n):
             tmp = [grid[i+j][j] for j in range(n-i)]
-            print("tmp:", tmp)
+            # print("tmp:", tmp)
             tmp.sort(reverse=True)
             for j in range(n - i):
-                print("j:", j)
+                # print("j:", j)
                 grid[i+j][j] = tmp[j]
         # top triangle
         for i in range(1, n): # don't include middle diagonal
