@@ -12,7 +12,6 @@ class Solution {
                 String pos = r + ", " + c;
                 if (grid[r][c] == '1' && !visited.contains(pos)) {
                     numislands++;
-                    System.out.println("here");
                     bfs(grid, r, c, visited);
                 }
             }
@@ -22,7 +21,6 @@ class Solution {
     }
 
     private void bfs(char[][] grid, int r, int c, Set<String> visited) {
-        System.out.println("bfs...");
         Queue<int[]> q = new LinkedList<>();
         q.add(new int[]{r, c});
 
@@ -31,7 +29,6 @@ class Solution {
             int row = coord[0];
             int col = coord[1];
             for (int[] direction : directions) {
-                System.out.println("direction:" + direction[0] + ", " + direction[1]);
                 int newr = row + direction[0];
                 int newc = col + direction[1];
                 if (newr >= 0 && newr < rows && newc >= 0 && newc < cols && grid[newr][newc] == '1' && !visited.contains(newr + ", " + newc)){
