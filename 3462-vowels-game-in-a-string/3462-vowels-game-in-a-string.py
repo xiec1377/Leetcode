@@ -6,5 +6,6 @@ class Solution:
         for c in s:
             if c in vowels:
                 numVowels += 1
-        # return numVowels % 2 != 0 or numVowels % 2 == 0 and numVowels > 0   
+        # if numVowels is even, Alice wins 
+        # if numVowels is odd, Alice still wins
         return numVowels > 0
