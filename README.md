@@ -236,6 +236,7 @@ My Leetcode solutions
 | [2691-count-vowel-strings-in-ranges](https://github.com/xiec1377/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/xiec1377/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 | [3396-valid-word](https://github.com/xiec1377/Leetcode/tree/master/3396-valid-word) |
+| [3462-vowels-game-in-a-string](https://github.com/xiec1377/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -310,6 +311,7 @@ My Leetcode solutions
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/xiec1377/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/xiec1377/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/xiec1377/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
+| [3462-vowels-game-in-a-string](https://github.com/xiec1377/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 | [3830-find-closest-person](https://github.com/xiec1377/Leetcode/tree/master/3830-find-closest-person) |
 ## Number Theory
 |  |
@@ -359,4 +361,12 @@ My Leetcode solutions
 |  |
 | ------- |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/xiec1377/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
+## Brainteaser
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/xiec1377/Leetcode/tree/master/3462-vowels-game-in-a-string) |
+## Game Theory
+|  |
+| ------- |
+| [3462-vowels-game-in-a-string](https://github.com/xiec1377/Leetcode/tree/master/3462-vowels-game-in-a-string) |
 <!---LeetCode Topics End-->
