@@ -166,6 +166,7 @@ My Leetcode solutions
 | [0036-valid-sudoku](https://github.com/xiec1377/Leetcode/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/xiec1377/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/xiec1377/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0166-fraction-to-recurring-decimal](https://github.com/xiec1377/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0217-contains-duplicate](https://github.com/xiec1377/Leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/xiec1377/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
@@ -225,6 +226,7 @@ My Leetcode solutions
 | [0022-generate-parentheses](https://github.com/xiec1377/Leetcode/tree/master/0022-generate-parentheses) |
 | [0049-group-anagrams](https://github.com/xiec1377/Leetcode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/xiec1377/Leetcode/tree/master/0125-valid-palindrome) |
+| [0166-fraction-to-recurring-decimal](https://github.com/xiec1377/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
 | [0778-reorganize-string](https://github.com/xiec1377/Leetcode/tree/master/0778-reorganize-string) |
 | [0952-word-subsets](https://github.com/xiec1377/Leetcode/tree/master/0952-word-subsets) |
@@ -310,6 +312,7 @@ My Leetcode solutions
 ## Math
 |  |
 | ------- |
+| [0166-fraction-to-recurring-decimal](https://github.com/xiec1377/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xiec1377/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/xiec1377/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/xiec1377/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
