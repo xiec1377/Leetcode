@@ -209,6 +209,7 @@ My Leetcode solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/xiec1377/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xiec1377/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/xiec1377/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0367-valid-perfect-square](https://github.com/xiec1377/Leetcode/tree/master/0367-valid-perfect-square) |
 | [0611-valid-triangle-number](https://github.com/xiec1377/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/xiec1377/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/xiec1377/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
@@ -320,6 +321,7 @@ My Leetcode solutions
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/xiec1377/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0367-valid-perfect-square](https://github.com/xiec1377/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xiec1377/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/xiec1377/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/xiec1377/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
