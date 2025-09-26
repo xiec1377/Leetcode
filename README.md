@@ -88,6 +88,7 @@ My Leetcode solutions
 | [0238-product-of-array-except-self](https://github.com/xiec1377/Leetcode/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/xiec1377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/xiec1377/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/xiec1377/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0739-daily-temperatures](https://github.com/xiec1377/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/xiec1377/Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/xiec1377/Leetcode/tree/master/0883-car-fleet) |
@@ -124,6 +125,7 @@ My Leetcode solutions
 | [0075-sort-colors](https://github.com/xiec1377/Leetcode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/xiec1377/Leetcode/tree/master/0125-valid-palindrome) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xiec1377/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0611-valid-triangle-number](https://github.com/xiec1377/Leetcode/tree/master/0611-valid-triangle-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/xiec1377/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/xiec1377/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/xiec1377/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -134,6 +136,7 @@ My Leetcode solutions
 | ------- |
 | [0011-container-with-most-water](https://github.com/xiec1377/Leetcode/tree/master/0011-container-with-most-water) |
 | [0134-gas-station](https://github.com/xiec1377/Leetcode/tree/master/0134-gas-station) |
+| [0611-valid-triangle-number](https://github.com/xiec1377/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/xiec1377/Leetcode/tree/master/0778-reorganize-string) |
 | [1478-maximum-number-of-events-that-can-be-attended](https://github.com/xiec1377/Leetcode/tree/master/1478-maximum-number-of-events-that-can-be-attended) |
 | [1834-minimum-number-of-people-to-teach](https://github.com/xiec1377/Leetcode/tree/master/1834-minimum-number-of-people-to-teach) |
@@ -152,6 +155,7 @@ My Leetcode solutions
 | [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/xiec1377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/xiec1377/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0611-valid-triangle-number](https://github.com/xiec1377/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0778-reorganize-string](https://github.com/xiec1377/Leetcode/tree/master/0778-reorganize-string) |
 | [0883-car-fleet](https://github.com/xiec1377/Leetcode/tree/master/0883-car-fleet) |
 | [1019-squares-of-a-sorted-array](https://github.com/xiec1377/Leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -203,6 +207,7 @@ My Leetcode solutions
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/xiec1377/Leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/xiec1377/Leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/xiec1377/Leetcode/tree/master/0209-minimum-size-subarray-sum) |
+| [0611-valid-triangle-number](https://github.com/xiec1377/Leetcode/tree/master/0611-valid-triangle-number) |
 | [0792-binary-search](https://github.com/xiec1377/Leetcode/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/xiec1377/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/xiec1377/Leetcode/tree/master/1468-check-if-n-and-its-double-exist) |
