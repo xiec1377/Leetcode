@@ -110,6 +110,7 @@ My Leetcode solutions
 | [2685-first-completely-painted-row-or-column](https://github.com/xiec1377/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [2691-count-vowel-strings-in-ranges](https://github.com/xiec1377/Leetcode/tree/master/2691-count-vowel-strings-in-ranges) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/xiec1377/Leetcode/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/xiec1377/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 | [3227-find-missing-and-repeated-values](https://github.com/xiec1377/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
 | [3242-count-elements-with-maximum-frequency](https://github.com/xiec1377/Leetcode/tree/master/3242-count-elements-with-maximum-frequency) |
 | [3461-find-the-minimum-area-to-cover-all-ones-i](https://github.com/xiec1377/Leetcode/tree/master/3461-find-the-minimum-area-to-cover-all-ones-i) |
@@ -199,6 +200,7 @@ My Leetcode solutions
 | [0594-longest-harmonious-subsequence](https://github.com/xiec1377/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [1046-max-consecutive-ones-iii](https://github.com/xiec1377/Leetcode/tree/master/1046-max-consecutive-ones-iii) |
 | [1567-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/xiec1377/Leetcode/tree/master/1567-maximum-number-of-vowels-in-a-substring-of-given-length) |
+| [3213-count-subarrays-where-max-element-appears-at-least-k-times](https://github.com/xiec1377/Leetcode/tree/master/3213-count-subarrays-where-max-element-appears-at-least-k-times) |
 ## Binary Search
 |  |
 | ------- |
