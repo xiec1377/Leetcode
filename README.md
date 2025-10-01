@@ -315,6 +315,7 @@ My Leetcode solutions
 ## Simulation
 |  |
 | ------- |
+| [1642-water-bottles](https://github.com/xiec1377/Leetcode/tree/master/1642-water-bottles) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/xiec1377/Leetcode/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2408-number-of-people-aware-of-a-secret](https://github.com/xiec1377/Leetcode/tree/master/2408-number-of-people-aware-of-a-secret) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/xiec1377/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -327,6 +328,7 @@ My Leetcode solutions
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/xiec1377/Leetcode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1440-convert-integer-to-the-sum-of-two-no-zero-integers](https://github.com/xiec1377/Leetcode/tree/master/1440-convert-integer-to-the-sum-of-two-no-zero-integers) |
 | [1585-the-kth-factor-of-n](https://github.com/xiec1377/Leetcode/tree/master/1585-the-kth-factor-of-n) |
+| [1642-water-bottles](https://github.com/xiec1377/Leetcode/tree/master/1642-water-bottles) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/xiec1377/Leetcode/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2649-count-total-number-of-colored-cells](https://github.com/xiec1377/Leetcode/tree/master/2649-count-total-number-of-colored-cells) |
 | [3227-find-missing-and-repeated-values](https://github.com/xiec1377/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
