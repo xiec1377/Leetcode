@@ -48,6 +48,7 @@ My Leetcode solutions
 | [0112-path-sum](https://github.com/xiec1377/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/xiec1377/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/xiec1377/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/xiec1377/Leetcode/tree/master/0695-max-area-of-island) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -55,6 +56,7 @@ My Leetcode solutions
 | [0112-path-sum](https://github.com/xiec1377/Leetcode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/xiec1377/Leetcode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/xiec1377/Leetcode/tree/master/0226-invert-binary-tree) |
+| [0695-max-area-of-island](https://github.com/xiec1377/Leetcode/tree/master/0695-max-area-of-island) |
 ## Binary Tree
 |  |
 | ------- |
@@ -90,6 +92,7 @@ My Leetcode solutions
 | [0347-top-k-frequent-elements](https://github.com/xiec1377/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0594-longest-harmonious-subsequence](https://github.com/xiec1377/Leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0611-valid-triangle-number](https://github.com/xiec1377/Leetcode/tree/master/0611-valid-triangle-number) |
+| [0695-max-area-of-island](https://github.com/xiec1377/Leetcode/tree/master/0695-max-area-of-island) |
 | [0739-daily-temperatures](https://github.com/xiec1377/Leetcode/tree/master/0739-daily-temperatures) |
 | [0792-binary-search](https://github.com/xiec1377/Leetcode/tree/master/0792-binary-search) |
 | [0883-car-fleet](https://github.com/xiec1377/Leetcode/tree/master/0883-car-fleet) |
@@ -289,6 +292,7 @@ My Leetcode solutions
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/xiec1377/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0200-number-of-islands](https://github.com/xiec1377/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/xiec1377/Leetcode/tree/master/0695-max-area-of-island) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -349,6 +353,7 @@ My Leetcode solutions
 | [0036-valid-sudoku](https://github.com/xiec1377/Leetcode/tree/master/0036-valid-sudoku) |
 | [0074-search-a-2d-matrix](https://github.com/xiec1377/Leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0200-number-of-islands](https://github.com/xiec1377/Leetcode/tree/master/0200-number-of-islands) |
+| [0695-max-area-of-island](https://github.com/xiec1377/Leetcode/tree/master/0695-max-area-of-island) |
 | [2145-grid-game](https://github.com/xiec1377/Leetcode/tree/master/2145-grid-game) |
 | [2685-first-completely-painted-row-or-column](https://github.com/xiec1377/Leetcode/tree/master/2685-first-completely-painted-row-or-column) |
 | [3227-find-missing-and-repeated-values](https://github.com/xiec1377/Leetcode/tree/master/3227-find-missing-and-repeated-values) |
