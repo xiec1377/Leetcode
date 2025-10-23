@@ -2,6 +2,8 @@ class Solution:
     def pacificAtlantic(self, heights: List[List[int]]) -> List[List[int]]:
         rows = len(heights)
         cols = len(heights[0])
+        pacific = set()
+        atlantic = set()
         def bfs(r, c):
             q = deque()
             start = (r, c)
@@ -9,8 +11,6 @@ class Solution:
             directions = [(1, 0), (0, 1), (-1, 0), (0, -1)]
             visited = set()
             visited.add((r, c))
-            isPacific = False
-            isAtlantic = False
 
             while q:
                 row, col = q.popleft()
@@ -18,22 +18,17 @@ class Solution:
                     newr = row + direction[0]
                     newc = col + direction[1]
                     if newr < 0 or newc < 0:
-                        isPacific = True
+                        pacific.add((r, c))
                     if newr >= rows or newc >= cols:
-                        isAtlantic = True
+                        atlantic.add((r, c))
                     if 0 <= newr < rows and 0 <= newc < cols and heights[newr][newc] <= heights[row][col] and (newr, newc) not in visited:
                         q.append((newr, newc)) 
                         visited.add((newr, newc))
-            if isPacific and isAtlantic:
-                return True
-            return False
 
         res = []
         for r in range(rows):
             for c in range(cols):
-                canFlow = bfs(r, c)
-                if canFlow:
-                    res.append((r, c))
-        return res
+                bfs(r, c)
+        return list(pacific & atlantic)
 
         
