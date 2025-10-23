@@ -6,7 +6,6 @@ class Solution:
             newStr = ""
             for i in range(1, len(s)):
                 sum = (int(s[i-1])+int(s[i])) % 10
-                print("sum:", sum)
                 newStr += str(sum)
             s = newStr
         if s[0] == s[1]:
