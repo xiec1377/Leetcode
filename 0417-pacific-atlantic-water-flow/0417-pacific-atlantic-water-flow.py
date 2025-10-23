@@ -34,11 +34,6 @@ class Solution:
                 canFlow = bfs(r, c)
                 if canFlow:
                     res.append((r, c))
-
-
-        
-
-
         return res
 
         
