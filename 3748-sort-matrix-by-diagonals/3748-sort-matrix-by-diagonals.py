@@ -1,19 +1,28 @@
-class Solution:
-    def sortMatrix(self, grid: List[List[int]]) -> List[List[int]]:
-        n = len(grid)
+class Solution(object):
+    def sortMatrix(self, grid):
+        """
+        :type grid: List[List[int]]
+        :rtype: List[List[int]]
+        """
+        rows = len(grid)
+        cols = len(grid[0])
         # bottom triangle
-        for i in range(n):
-            tmp = [grid[i+j][j] for j in range(n-i)]
-            # print("tmp:", tmp)
-            tmp.sort(reverse=True)
-            for j in range(n - i):
-                # print("j:", j)
-                grid[i+j][j] = tmp[j]
+        for r in range(rows):
+            diagonal = []
+            for j in range(rows - r):
+                diagonal.append(grid[r+j][j])
+            diagonal.sort(reverse=True)
+            for j in range(rows - r):
+                grid[r+j][j] = diagonal[j]
         # top triangle
-        for i in range(1, n): # don't include middle diagonal
-            tmp = [grid[j][i+j] for j in range(n-i)]
-            tmp.sort()
-            for j in range(n-i):
-                grid[j][i+j] = tmp[j]
+        for c in range(1, cols):
+            diagonal = []
+            for j in range(cols - c):
+                diagonal.append(grid[j][c+j])
+            diagonal.sort()
+            for j in range(cols - c):
+                grid[j][c+j] = diagonal[j]
         return grid
+            
+                
         
