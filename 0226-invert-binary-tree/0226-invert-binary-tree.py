@@ -7,18 +7,17 @@
 class Solution(object):
     def invertTree(self, root):
         """
-        :type root: TreeNode
-        :rtype: TreeNode
+        :type root: Optional[TreeNode]
+        :rtype: Optional[TreeNode]
         """
-        if root is None:
-            return root
-        else:
-            # buffer = root.left
-            # root.left = root.right
-            # root.right = buffer
-            root.left, root.right = root.right, root.left
-            self.invertTree(root.left)
-            self.invertTree(root.right)
+
+        if not root:
+            return
+        temp = root.right
+        root.right = root.left
+        root.left = temp
+
+        self.invertTree(root.right)
+        self.invertTree(root.left)
         return root
-        
         
