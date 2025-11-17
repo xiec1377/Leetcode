@@ -12,20 +12,15 @@ class Solution(object):
         """
         q = deque()
         q.append((root, 1))
-        print("q:", q)
         maxD = float('-inf')
         while q:
             node, depth = q.popleft()
             if node == None:
                 return 0
-            print("node:", node.val)
-            print("Depth:", depth)
             maxD = max(maxD, depth)
             if node.left != None:
-                print("left node add")
                 q.append((node.left, depth + 1))
             if node.right != None:
-                print("right node add")
                 q.append((node.right, depth + 1))
         return maxD
             
