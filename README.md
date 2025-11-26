@@ -259,6 +259,7 @@ My Leetcode solutions
 | [0125-valid-palindrome](https://github.com/xiec1377/Leetcode/tree/master/0125-valid-palindrome) |
 | [0166-fraction-to-recurring-decimal](https://github.com/xiec1377/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
 | [0187-repeated-dna-sequences](https://github.com/xiec1377/Leetcode/tree/master/0187-repeated-dna-sequences) |
+| [0227-basic-calculator-ii](https://github.com/xiec1377/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0242-valid-anagram](https://github.com/xiec1377/Leetcode/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/xiec1377/Leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0567-permutation-in-string](https://github.com/xiec1377/Leetcode/tree/master/0567-permutation-in-string) |
@@ -329,6 +330,7 @@ My Leetcode solutions
 | ------- |
 | [0020-valid-parentheses](https://github.com/xiec1377/Leetcode/tree/master/0020-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/xiec1377/Leetcode/tree/master/0042-trapping-rain-water) |
+| [0227-basic-calculator-ii](https://github.com/xiec1377/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0739-daily-temperatures](https://github.com/xiec1377/Leetcode/tree/master/0739-daily-temperatures) |
 | [0883-car-fleet](https://github.com/xiec1377/Leetcode/tree/master/0883-car-fleet) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/xiec1377/Leetcode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
@@ -351,6 +353,7 @@ My Leetcode solutions
 |  |
 | ------- |
 | [0166-fraction-to-recurring-decimal](https://github.com/xiec1377/Leetcode/tree/master/0166-fraction-to-recurring-decimal) |
+| [0227-basic-calculator-ii](https://github.com/xiec1377/Leetcode/tree/master/0227-basic-calculator-ii) |
 | [0367-valid-perfect-square](https://github.com/xiec1377/Leetcode/tree/master/0367-valid-perfect-square) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/xiec1377/Leetcode/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/xiec1377/Leetcode/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
