@@ -5,19 +5,18 @@ class Solution(object):
         :type cost: List[int]
         :rtype: int
         """
-        my_gas = 0
-        index = 0
-        total_gas = sum(gas)
-        total_cost = sum(cost)
-        if total_cost > total_gas:
+        totalGas = 0
+        start = 0
+        if sum(gas) < sum(cost):
             return -1
-
         for i in range(len(gas)):
-            my_gas += gas[i] - cost[i]
-            if my_gas < 0:
-                my_gas = 0
-                index = i + 1
-        return index
-                
+            # print("gas[i]:", gas[i])
+            totalGas += gas[i] - cost[i]
+            if totalGas < 0:
+                # restart loop
+                totalGas = 0
+                start = i + 1
+
+        return start
 
         
